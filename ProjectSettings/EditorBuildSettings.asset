@@ -4,7 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StereoEyeShaderSample_URP.unity
+    guid: 37f8505ebf8a14d47bb3bf32e8c106c2
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 610f04c6ec0d1fd4f93f173f38d876fe,
       type: 2}
